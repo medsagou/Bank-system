@@ -1,0 +1,6 @@
+0;Gestion de Compte;Banque;Agence;Statistiques
+00;Creer un nouvau compte;Accéder à un compte
+01;Déposer de l'argent;Retirer de l'argent;Transférer de l'argent;Afficher le solde;Afficher proprietaires;Afficher l'historiques;Afficher Toutes les informations sur le compte;Fermer un compte
+10;Nombre total de clients;Nombre de clients par agence;Frequence d'ouverture de compte;Montant déposé par un client durant une période;Montant déposé dans chaque agence durant une période;Montant depose globalement dans toutes les agences durant une période;Nombre d'opérations / mois;Nombre d'opérations / mois pour chaque agence
+20;Ouvrir un compte pour un client;Fermer un compte pour un client dans notre agence;Déposer de l'argent dans le compte d'un client;Retirer de l'argent du compte d'un client;Transférer de l'argent d'un compte à un autre compte;Afficher le solde d'un compte d'un client;Consulter l'historique d'un compte d'un client;Afficher le nombre de clients de l'agence;Afficher le montant déposé par les clients de l'agence durant une période;Afficher le nombre total des opérations effectuées par les clients de l'agence par mois.
+30;Nombre des clients Total;Nombre des clients par Agence;Pourcentage des clients par Agence;La moyenne des soldes des comptes;Nombre des operation par mois;Nombre des operation par mois par agence
