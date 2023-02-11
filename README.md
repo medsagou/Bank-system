@@ -2,6 +2,7 @@
 # Bank system
 Bank system with Python, using txt files as a database.
 
+## Over than 1700 lignes of code from scratch!
 This project implements a comprehensive banking system with python to manage customer accounts and perform various operations such as opening an account, depositing money, withdrawing money, transferring money, capitalizing account, and consulting account history. The system comprises of accounts, owners, branches, and operations that support multiple types of accounts and currency exchange. The bank can track various statistics, including customer information, deposit amounts, and branch performance.
 
 
