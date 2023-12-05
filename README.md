@@ -88,14 +88,6 @@ def creer_compte(self):
         return
 ```
 
-# How to use gulp v3 and v4 on your sass files - Underscores the starter theme folder - Mohamed Sagou
-
-This tutorial will show you how to install gulp on your project and how to use it in the right way. If you are usint underscores starter theme folder, in this folder you will find the right methode to use gulp in your project.
-
-## Table of contents
-- [Author](#author)
-
-
 
 ### Menus Structure
 
